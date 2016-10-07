@@ -1,10 +1,10 @@
 # install
-  npm install  
+  *npm install*  
 
 # build
-  npm run build
+  *npm run build* <br />
   running webpack to bundle the src/ directory
   
 # start
-  npm start
+  *npm start* <br />
   runs the server code
