@@ -1,10 +1,10 @@
-install
+# install
   npm install  
 
-build
+# build
   npm run build
   running webpack to bundle the src/ directory
   
-start
+# start
   npm start
   runs the server code
